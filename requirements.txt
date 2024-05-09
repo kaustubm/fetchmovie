@@ -1,0 +1,8 @@
+pandas
+streamlit
+requests
+openpyxl
+xlsxwriter
+IMDbPY
+beautifulsoup4
+lxml
